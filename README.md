@@ -5,3 +5,6 @@ Skills Used:
 - Basic HTML 
 - Basic CSS
 - Extensive use of flex layout
+
+Credits:
+Photo 'mountains' by Zoran Kokanovic on Unsplash
